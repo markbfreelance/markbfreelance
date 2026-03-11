@@ -20,19 +20,36 @@ Building modern web applications with clean architecture and scalable systems.
 ## 🛠 Tech Stack
 
 ### Frontend
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ### Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Railway](https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway)
+![Hostinger](https://img.shields.io/badge/Hostinger-black?style=for-the-badge&logo=hostinger)
+![cPanel](https://img.shields.io/badge/cPanel-black?style=for-the-badge&logo=cpanel)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/AdobeXD-black?style=for-the-badge&logo=adobexd)
+
+### SEO & Analytics
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-black?style=for-the-badge&logo=googleanalytics)
+![Google Search Console](https://img.shields.io/badge/Search_Console-black?style=for-the-badge&logo=google)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
