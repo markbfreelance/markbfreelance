@@ -76,7 +76,7 @@ Marketplace for petroleum equipment.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbfreelanceE&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbfreelance&layout=compact&theme=github_dark"/>
 </p>
 
 ---
