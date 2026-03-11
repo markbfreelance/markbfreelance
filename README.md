@@ -50,22 +50,44 @@ Building modern web applications with clean architecture and scalable systems.
 ### Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Formspree](https://img.shields.io/badge/Formspree-black?style=for-the-badge&logo=formspree)
 
 ---
 
-## 🌐 Featured Projects
+# 🌐 Featured Projects
 
-### 🔹 Portfolio
-**https://alihusain.me**
+### 🔹 Personal Portfolio
+🔗 https://alihusain.me
 
-Built with **Next.js, Python, Prisma, MySQL**
+Modern developer portfolio built with **Next.js, Python, Prisma, and MySQL**, focused on performance, SEO, and clean UI.
 
 ---
 
 ### 🔹 Petro Parts Marketplace
 **https://mypetroparts.vercel.app**
 
-Marketplace for petroleum equipment.
+A web platform for petroleum equipment listings and marketplace functionality.
+
+---
+
+### 🔹 Atlanta Petroleum Equipment Company
+**https://theapecgroup.com**
+
+Corporate website for a petroleum equipment company, focused on product catalog presentation and company branding.
+
+---
+
+### 🔹 Metal Products Company USA
+**https://metalproductsusa.com**
+
+Industrial manufacturing website showcasing petroleum equipment and metal fabrication services.
+
+---
+
+### 🔹 Geo Petroleum
+**https://geopetroleum.com**
+
+Energy industry website highlighting petroleum services, company background, and product offerings.
 
 ---
 
