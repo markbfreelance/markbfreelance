@@ -12,8 +12,8 @@ Building modern web applications with clean architecture and scalable systems.
 - 💻 Full Stack Developer specializing in **Next.js**
 - ⚡ Building modern web applications
 - 🌱 Currently learning **advanced backend architecture**
-- 💬 Ask me about **Next.js, Prisma, MySQL, Tailwind**
-- 📫 Reach me: **your@email.com**
+- 💬 Ask me about **Next.js, Prisma, MySQL, Tailwind, TypeScript**
+- 📫 Reach me: **markb.freelance@gmail.com**
 
 ---
 
@@ -41,7 +41,7 @@ Building modern web applications with clean architecture and scalable systems.
 ### 🔹 Portfolio
 **https://alihusain.me**
 
-Built with **Next.js, Prisma, MySQL**
+Built with **Next.js, Python, Prisma, MySQL**
 
 ---
 
@@ -74,9 +74,9 @@ Marketplace for petroleum equipment.
 
 ## 🤝 Connect With Me
 
-- 🌐 Portfolio: https://yourportfolio.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: your@email.com
+- 🌐 Portfolio: https://www.upwork.com/freelancers/~0194b4b289c084a00b
+- 💼 LinkedIn: https://www.linkedin.com/in/mark-albert-valentin-balajadia-7726663b0/
+- 📧 Email: markb.freelance@gmail.com
 
 ---
 
