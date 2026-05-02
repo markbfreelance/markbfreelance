@@ -1,7 +1,7 @@
 <h1 align="center">Mark Balajadia</h1>
 <p align="center">
-  <strong>Full Stack Developer</strong> · Baguio, Philippines 🇵🇭<br/>
-  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> · 2023–Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dev Lead @ <a href="https://northernware.ph">northernware.ph</a>
+  <strong>Full Stack Developer</strong> · Philippines 🇵🇭<br/>
+  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> · 2023–Present &nbsp;|&nbsp; Dev Lead @ <a href="https://northernware.ph">northernware.ph</a>
 </p>
 
 ---
@@ -10,7 +10,7 @@ Building scalable web applications with clean architecture and modern tooling.
 
 **Stack:** Next.js · TypeScript · React · Tailwind · Node.js · PHP · Prisma · MySQL · REST API · JWT
 
-**Payment Integration:** Stripe · PayMongo
+**Payments:** Stripe · PayMongo
 
 **Performance & SEO:** PageSpeed Insights · Core Web Vitals · Google Search Console · Technical SEO · On-Page SEO
 
@@ -21,12 +21,16 @@ Building scalable web applications with clean architecture and modern tooling.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markbfreelance&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbfreelance&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markbfreelance&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbfreelance&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markbfreelance&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=markbfreelance&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
