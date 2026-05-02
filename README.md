@@ -30,7 +30,7 @@ Building scalable web applications with clean architecture and modern tooling.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markbfreelance&theme=github_dark&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
