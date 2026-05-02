@@ -1,7 +1,7 @@
 <h1 align="center">Mark Balajadia</h1>
 <p align="center">
   <strong>Full Stack Developer</strong> · Philippines 🇵🇭<br/>
-  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> · 2023–Present &nbsp;|&nbsp; Dev Lead @ <a href="https://northernware.ph">northernware.ph</a>
+  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> · 2023–Present &nbsp;|&nbsp; Dev Lead @ <a href="https://northernware.ph">northernware.ph</a> &nbsp;|&nbsp; Full Stack & DevOps @ <a href="#">Atlanta Petroleum Equipment Co.</a> · Oct 2024–Present
 </p>
 
 ---
@@ -30,11 +30,24 @@ Building scalable web applications with clean architecture and modern tooling.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markbfreelance&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markbfreelance&theme=github-dark&hide_border=true" />
 </p>
 
+---
+
+## Trophies
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markbfreelance&theme=github-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=markbfreelance&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=markbfreelance&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/markbfreelance?label=Followers&style=flat-square&color=blue" />
 </p>
 
 ---
