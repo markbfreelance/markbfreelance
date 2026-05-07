@@ -1,7 +1,7 @@
 <h1 align="center">Mark Balajadia</h1>
 <p align="center">
   <strong>Full Stack Developer</strong> · Philippines 🇵🇭<br/>
-  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> · 2023–Present &nbsp;|&nbsp; Dev Lead @ <a href="https://northernware.ph">northernware.ph</a> &nbsp;|&nbsp; Full Stack & DevOps @ Atlanta Petroleum Equipment Co. · Oct 2024–Present
+  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> · 2023–Present &nbsp;|&nbsp; Dev Lead @ <a href="https://northernware.ph">northernware.ph</a> &nbsp;|&nbsp; Founder & Dev Lead @ <a href="gritdp.com">Grit Digital Performance</a> &nbsp;|&nbsp; Full Stack & DevOps @ Atlanta Petroleum Equipment Co. · Oct 2024–Present
 </p>
 
 ---
