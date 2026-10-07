@@ -5,12 +5,14 @@
 </p>
 
 <p align="center">
-  Software Engineer | DevOps & Systems Administrator @ Atlanta Petroleum Equipment Co. · Oct 2024–Present
-  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> (2023–Present) &nbsp;|&nbsp;
-  <br/>
-  Dev Lead @ <a href="https://northernware.ph">Northernware</a> &nbsp;|&nbsp;
-  Founder & Dev Lead @ <a href="https://gritdp.com">Grit Digital Performance</a>
-  <br/>
+  <strong>Software Engineer | DevOps & Systems Administrator</strong><br/>
+  Atlanta Petroleum Equipment Co. · Oct 2024–Present
+  <br/><br/>
+  <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> · 2023–Present
+  &nbsp;|&nbsp;
+  <strong>Dev Lead</strong> · <a href="https://northernware.ph">Northernware</a>
+  &nbsp;|&nbsp;
+  <strong>Founder & Dev Lead</strong> · <a href="https://gritdp.com">Grit Digital Performance</a>
 </p>
 
 <p align="center">
