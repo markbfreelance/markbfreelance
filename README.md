@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  Full Stack & DevOps @ Atlanta Petroleum Equipment Co. · Oct 2024–Present
+  Software Engineer | DevOps & Systems Administrator @ Atlanta Petroleum Equipment Co. · Oct 2024–Present
   <a href="https://www.upwork.com/freelancers/~0194b4b289c084a00b">Upwork Freelancer</a> (2023–Present) &nbsp;|&nbsp;
+  <br/>
   Dev Lead @ <a href="https://northernware.ph">Northernware</a> &nbsp;|&nbsp;
   Founder & Dev Lead @ <a href="https://gritdp.com">Grit Digital Performance</a>
   <br/>
