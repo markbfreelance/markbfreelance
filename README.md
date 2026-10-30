@@ -52,12 +52,3 @@ Architecting and maintaining scalable web applications, internal enterprise syst
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![PayMongo](https://img.shields.io/badge/PayMongo-1C4E9A?style=flat-square)
-
----
-
-### Activity
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=markbfreelance&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=default" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbfreelance&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
